@@ -1,5 +1,5 @@
 ---
-title: Java01
+title: Java02
 categories: Java
 tags: 
   - java
@@ -7,6 +7,5 @@ tags:
   - 面向对象
 ---
 
-人机交互方式**
 
-- **图形化界面**(**Grap
+
